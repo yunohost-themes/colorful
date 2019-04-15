@@ -1,0 +1,20 @@
+{
+    "name": "colorful",
+    "id": "colorful",
+    "packaging_format": 1,
+    "description": {
+        "en": "A minimalist theme with sweet colors.",
+        "fr": "Un thème minimaliste avec de chouettes couleurs."
+    },
+    "version": "1.0",
+    "url": "https://github.com/yunohost-themes/colorful",
+    "license": "AGPL-3.0",
+    "maintainer": {
+        "name": "Finger-san",
+        "email": "fingersan@yahoo.com"
+    },
+    "requirements": {
+        "yunohost": ">= 3.5.2",
+        "ssowat": ">= 3.5.2"
+    }
+}
