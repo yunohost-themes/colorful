@@ -17,7 +17,6 @@
 }
 
 .ynh-user-portal {
-  overflow: hidden;
   background-image: url("background.jpg");
   background-repeat: repeat-x;
   background-size: cover;
