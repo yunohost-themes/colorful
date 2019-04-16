@@ -55,8 +55,8 @@
   color: black !important;
 }
 .btn:hover, .classic-btn:hover, .large-btn:hover {
-  background-color: rgb(100, 100, 255) !important;
-  color: white !important;
+  background-color: none !important;
+  background-image: url(./btnTexture.png);
   text-decoration: none;
 }
 
