@@ -22,7 +22,6 @@
   background-size: cover;
   width: 100%;
   height: 100%;
-  /* animation: sliding 60 linear infinite; */
 }
 
 #ynh-logout:hover {
@@ -82,17 +81,3 @@
   z-index: 10;
   background-image: url("./cloud.png");
 }
-
-/* /!\ Not working - Sliding background "left to right" animation
-(I've tried, but that's not how mafia works.)
-
-@keyframes sliding {
-  0% {
-    background-position: 0px 0;
-  }
-  100% {
-    background-position: -5760px 0;
-  }
-}
-
-*/
