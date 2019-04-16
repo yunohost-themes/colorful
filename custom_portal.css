@@ -76,6 +76,9 @@
 .control-label {
   background: rgba(0, 0, 0, 0.5);
 }
+.form-text::placeholder {
+  color: #fff;
+}
 
 /* Use a custom logo image */
 #ynh-logo {
