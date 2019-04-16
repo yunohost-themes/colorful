@@ -10,6 +10,7 @@
 .user-container small,
 .user-container .user-mail,
 .user-container .user-mail,
+.footer a,
 #ynh-logout {
   color: black !important;
   text-shadow: 0px, 0px, 5px, black !important;
@@ -52,27 +53,17 @@
   background-color: rgba(255, 255, 255, 0.5) !important;
   color: black !important;
 }
-.btn:hover, .classic-btn:hover, .large-btn:hover {
-  background-color: none !important;
-  background-image: url(./btnTexture.png);
+.classic-btn:hover, .large-btn:hover {
+  background-color: rgba(0, 68, 255, 0.5) !important;
+  color: white !important;
   text-decoration: none;
 }
-
-.footer a {
-  padding: 2px;
-  color:black;
-}
-.link-profile-edit:hover {
-  background-color: rgba(231, 0, 0, 0.5);
+.validate-btn:hover {
+  background-color: rgba(0, 129, 31, 0.5) !important;
   color: white !important;
 }
-.link-documentation:hover {
-  background-color: rgba(0, 129, 31, 0.5);
-  color: white !important;
-}
-.link-admin:hover {
-  background-color: rgba(0, 68, 255, 0.5);
-  color: white !important;
+.link-btn:hover {
+  background-color: rgba(255, 239, 0, 0.5) !important;
 }
 
 .messages.info {
