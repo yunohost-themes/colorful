@@ -8,4 +8,7 @@ This is a derivated work of "Clouds" theme provided by Yunohost.
 You can follow the instructions explained here:
 https://yunohost.org/#/theming
 
-![screen](https://user-images.githubusercontent.com/28685939/56171928-81b94e80-5fe7-11e9-9047-2f1dec734b04.jpg)
+## Screenshots
+
+![newscreen2](https://user-images.githubusercontent.com/28685939/56249879-b42d7f00-60ad-11e9-8f13-5f09fa61247c.jpg)
+![newscreen](https://user-images.githubusercontent.com/28685939/56249878-b394e880-60ad-11e9-8873-cdc6fa7c53d8.jpg)
